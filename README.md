@@ -30,8 +30,6 @@ PLCards is an offline-first Android application designed for football card enthu
 
 ## Screenshots
 
-### Phone Interface
-
 ![Screenshots 1](screenshots/screens1.png)  
 *Home, Search, Card Details*
 
