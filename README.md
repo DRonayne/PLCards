@@ -1,3 +1,6 @@
+![Screenshots 1](screenshots/screens1.png)
+![Screenshots 2](screenshots/screens2.png) 
+
 # PLCards
 
 A modern, feature-rich Android application for browsing, collecting, and curating a team from football trading cards.
@@ -27,15 +30,6 @@ PLCards is an offline-first Android application designed for football card enthu
 - **Smooth Animations**: SharedTransitionLayout for seamless navigation animations
 - **Dark Mode**: Full dark theme support with system preference detection
 - **Easter Egg**: Hidden WC2002 mode with complete theme transformation
-
-## Screenshots
-
-![Screenshots 1](screenshots/screens1.png)  
-*Home, Search, Card Details*
-
-![Screenshots 2](screenshots/screens2.png)  
-*My XI, Sharing Card, Sharing My XI*
-
 
 ## Architecture
 
