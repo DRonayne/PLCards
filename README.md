@@ -32,17 +32,11 @@ PLCards is an offline-first Android application designed for football card enthu
 
 ### Phone Interface
 
-![Home Screen](screenshots/phone_home.png)  
-*Dynamic home feed with curated card shelves*
+![Screenshots 1](screenshots/screens1.png)  
+*Home, Search, Card Details*
 
-![Search Screen](screenshots/phone_search.png)  
-*Advanced search with live filtering*
-
-![Card Detail](screenshots/phone_card_detail.png)  
-*Detailed card view with parallax scrolling*
-
-![My XI Builder](screenshots/phone_my_xi.png)  
-*Interactive team formation builder*
+![Screenshots 2](screenshots/screens2.png)  
+*My XI, Sharing Card, Sharing My XI*
 
 
 ## Architecture
