@@ -6,9 +6,7 @@ A modern, feature-rich Android application for browsing, collecting, and curatin
 
 PLCards is an offline-first Android application designed for football card enthusiasts. It features cards from the Premier League era (98-08 for now) and includes a special hidden "WC2002 Mode" that transforms the app's theme and content to celebrate the iconic 2002 FIFA World Cup.
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
-![License](https://img.shields.io/badge/license-Apache%202.0-orange.svg)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blueviolet.svg)  
 ![Min SDK](https://img.shields.io/badge/minSdk-24-green.svg)  
 ![Target SDK](https://img.shields.io/badge/targetSdk-35-green.svg)
